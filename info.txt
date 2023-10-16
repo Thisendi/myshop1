@@ -1,0 +1,6 @@
+
+Database Name : mm_ecom
+
+Admin :
+        username : admin 
+        Password :thedara
